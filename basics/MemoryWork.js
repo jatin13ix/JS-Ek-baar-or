@@ -1,5 +1,5 @@
 //How memory work in Java script
-// 1st. Stack (primitive)     [number, sybol,bigint,string etc..]
+// 1st. Stack (primitive)     [number, symbol,bigint,string etc..]
 // 2nd. Heap  (non-primitive) [array,object,function]
 let myName="jatin agrawal"
 let myName2=myName
