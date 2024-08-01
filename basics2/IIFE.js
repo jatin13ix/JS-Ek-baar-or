@@ -7,5 +7,11 @@
 
 (function database() {
     console.log("DB CONNECTED");
-})()  //so there is one more method we have IIFE
+})();  //so there is one more method we have IIFE, ; is needed 
 
+
+//Lets try arrow function  
+
+(()=>{
+    console.log(`DB CONNECTED TWO`);
+})()
