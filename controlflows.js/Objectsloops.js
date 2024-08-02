@@ -17,3 +17,5 @@ for(const key in myobj) {
     // console.log(`Full of ${key} is ${myobj[key]}`); //you can get access to both from this
     
 }
+
+
